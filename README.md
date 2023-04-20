@@ -12,11 +12,11 @@ refer to the package.json inside the client and server folders for the full list
 
 ## Deployment 
 
-[Here]() is the link to the deployed app on Heroku.
+[Here](https://glacial-citadel-14717.herokuapp.com/) is the link to the deployed app on Heroku.
 
 ## License
 Please refer to the repo for the license
 
 ## Contribution
 
-[Here]() is the repo in which the app was created by me!
+[Here](https://github.com/ericrey93) is the repo in which the app was created by me!
